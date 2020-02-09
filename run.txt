@@ -1,3 +1,7 @@
 India:
 Jaiswal score 88
 Ghuri score 70
+
+Bangladesh:
+sakib 10
+minhaj 50
